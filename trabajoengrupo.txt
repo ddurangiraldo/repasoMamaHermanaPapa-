@@ -1,9 +1,8 @@
-<<<<<<< HEAD
 modificando archivo
-=======
 creando conflicto
 creando conflicto 2
+creando conflicto Aleja
 creando conflicto David
 nueva línea David - conflicto mamá
->>>>>>> d238fffed2368bd984316df6d5fc7c5a5aafade7
 añadiendo palabras
+
