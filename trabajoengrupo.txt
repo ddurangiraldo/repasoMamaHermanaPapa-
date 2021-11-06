@@ -1,3 +1,9 @@
+
+modificando archivo
+=======
 creando conflicto
 creando conflicto 2
 creando conflicto Aleja
+creando conflicto David
+nueva línea David - conflicto mamá
+>>>>>>> 85698e34155f1b848542028ba3a36eabfa18343a
